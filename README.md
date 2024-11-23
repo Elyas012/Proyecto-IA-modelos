@@ -21,7 +21,7 @@ Este proyecto utiliza TensorFlow para construir un modelo de aprendizaje profund
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/TFTomasFernandez/AI-Detected-Cancer.git
+    git clone https://github.com/Elyas012/Proyecto-IA-modelos.git
     cd tu_repositorio
     ```
 
