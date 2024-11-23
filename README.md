@@ -1,4 +1,5 @@
-# Detector de Cáncer de Piel con TensorFlow
+# PROYECTO COMO BASE PARA MEJORAR COMO PROYECTO DE MODELOS DISCRETOS
+# Detector de Cáncer de Piel con TensorFlow 
 
 Este proyecto utiliza TensorFlow para construir un modelo de aprendizaje profundo que detecta el cáncer de piel a partir de imágenes. El modelo está entrenado para clasificar imágenes de lesiones cutáneas como benignas o malignas.
 
